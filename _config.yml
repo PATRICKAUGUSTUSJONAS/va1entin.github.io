@@ -1,7 +1,7 @@
 # Site settings
 title: va1entin's blog
 default_author: Valentin Heidelberger
-description: "va1entin's blog"  # used in site head
+description: "va1entin.io"  # used in site head
 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
