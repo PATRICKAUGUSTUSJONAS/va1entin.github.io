@@ -1,23 +1,23 @@
 # Site settings
-title: Valentin Heidelberger's blog
+title: va1entin's blog
 default_author: Valentin Heidelberger
-description: "Valentin Heidelberger's blog"  # used in site head
+description: "va1entin's blog"  # used in site head
 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
-#disqus_url: shikherverma.com
-#disqus_id: shikherverma
+#disqus_url: example.com
+#disqus_id: 
 # register on feedburner and replace this url. Deleting the value will remove it from footer.
-#feedburner_url: https://feedburner.google.com/fb/a/mailverify?uri=programmer-wannabe&amp;loc=en_US
+#feedburner_url:
 
 # footer details. Deleting the value would remove it from footer.
 github_username:  va1entin
-#facebook_username:  shikherverma42
-#email: root@shikherverma.com
-#stackoverflow_username: 6764571/shikher-verma
+#facebook_username: 
+#email:
+#stackoverflow_username:
 twitter_username : valhei
-linkedin_username : shikherverma42
-#keybase_username : shikherverma
+linkedin_username : valentin-heidelberger-251769102
+#keybase_username :
 copyright_name: Valentin Heidelberger
 rss : true
 
