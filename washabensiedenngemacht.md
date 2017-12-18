@@ -7,7 +7,7 @@ header-img: "img/blog-bg.jpg"
 # Hallo lieber Mensch,
 der du auf diese Seite gestoßen bist. Hier geht es um das **Top-Thema**. Um das **eine**, über das wirklich jede*r, vom Zahnarzt über den Bekannten meines Vaters auf dessen Geburtstagsparty bis zum zufälligen Passanten auf der Straße mit mir reden möchte: **Was habe ich denn eigentlich gemacht?** Wie kommt es, dass ich auf Stützen laufe/im Rollstuhl sitze und... die Frage aller Fragen... **kann man da noch was machen?**
 
-**"Kann man da noch was machen" ist ein [wunderbares Buch von Laura Gehlhaar](https://lauragehlhaar.com/buch), welches mich zu diesem Post inspiriert hat und auf sehr kurzweilige Art und Weise das Leben aus der Sicht einer Rollstuhlfahrerin erzählt.**
+*"Kann man da noch was machen" ist ein [wunderbares Buch von Laura Gehlhaar](https://lauragehlhaar.com/buch), welches mich zu diesem Post inspiriert hat und auf sehr kurzweilige Art und Weise das Leben aus der Sicht einer Rollstuhlfahrerin erzählt.*
 
 
 Die Fakten gleich vorweg, damit du deine heiß ersehnte Antwort hast: Ich habe gar nichts gemacht. Nur Pech bei der Gen-Lotterie gehabt. Es handelt sich um eine Ostechondrosis dissecans in beiden Sprunggelenken und nein da kann man nichts machen.
@@ -18,9 +18,9 @@ Für die meisten nicht-behinderten Menschen ist es ganz selbstverständlich zu f
 # Meine Krankheit ist ein Teil von mir
 und das in jeder Sekunde, die ich atme. Sie ist immer bei mir. Beim Aufstehen, auf der Arbeit, im Urlaub, beim Kinobesuch mit meiner Freundin, im Restaurant mit Freunden, auf dem Heimweg und wenn ich abends ins Bett gehe wird sie Teil meiner Träume. Sie ist einfach immer da und auch immer Teil meiner Wahrnehmung. Wenn ich nachts träume, dass ich vor irgendwas weg laufen musst, dann kann ich nicht laufen. Irgendwas hält mich davon ab, schneller zu gehen, als ich es auch in echt kann. Wenn ich dann doch laufe oder gar springe, habe ich ein vages Gefühl, das sich wie mein typischer Schmerz anfühlt, bloß verwaschen durch den Schleier des Traums. All das hat begonnen, nachdem die Krankheit in mein Leben trat und ist ein sehr anschauliches Beispiel wie tief sich so etwas ins Leben und die Seele gräbt.
 
-Und genau deshalb ist es so anstrengend immer wieder durch die Nachfragen anderer Menschen damit konfrontiert zu werden. Ich muss mich damit ohnehin 24/7/365 beschäftigen und auch jeden Tag wieder die Energie aufbringen meine durchweg positive Einstellung und den idealistischen Optimismus, den ich dem Leben gegenüber empfinde, weiter zu behalten. So träume ich von dem Leben, das nach ein paar buchstäblich einschneidenden Operationen in der Zukunft auf mich wartet und werde abrupt dort heraus gerissen als mich wieder irgendjemand in der S-Bahn fragt "Was haben Sie denn gemacht?". "Gar nichts, verdammt nochmal!" möchte ich schreien, die Frage klingt als träge ich Schuld daran. Hach, ich Jungspund hab mich bestimmt nur beim Fußball aufs Maul gelegt. Aber nein, ich kann einfach rein gar nichts dafür, so ist das Leben.
+Und genau deshalb ist es so anstrengend immer wieder durch die Nachfragen anderer Menschen damit konfrontiert zu werden. Ich muss mich damit ohnehin 24/7/365 beschäftigen und auch jeden Tag wieder die Energie aufbringen meine durchweg positive Einstellung und den idealistischen Optimismus, den ich dem Leben gegenüber empfinde, weiter zu behalten. So träume ich von dem Leben, das nach ein paar buchstäblich einschneidenden Operationen in der Zukunft auf mich wartet und werde abrupt dort heraus gerissen als mich wieder irgendjemand in der S-Bahn fragt "Was haben Sie denn gemacht?". "Gar nichts, verdammt nochmal!" möchte ich schreien, die Frage klingt als trüge ich Schuld daran. Hach, ich Jungspund hab mich bestimmt nur beim Fußball aufs Maul gelegt. Aber nein, ich kann einfach rein gar nichts dafür, so ist das Leben.
 
-Für die fragenden Menschen wirken diese Fragen wie ehrliches Interesse, als wären sie wirklich darum besorgt, wie es mir geht. Doch verstehen die meisten nicht, dass ich ihr Interesse daran nicht brauche. Damit durch den Alltag schleppen muss ich mich sowieso. Egal, ob ich 5 mal oder nie am Tag darüber reden muss. Es ist trotzdem immer da und nimmt Raum in meinem Kopf ein. Wenn ich über das, was mich als Menschen wirklich ausmacht, Musik, mein Beruf, meine Beziehung, die philosophischen Konzepte, mit denen ich mir die Welt erkläre, sprechen kann, ist das eine schöne Sache. Wenn du mich aber nur danach fragst, warum ich denn so komisch laufe, dann ist das nur eine weitere von tausenden Erinnerungen an den unangenehmsten und kraftraubendsten Teil meines Lebens. 
+Für die fragenden Menschen wirken diese Fragen wie ehrliches Interesse, als wären sie wirklich darum besorgt, wie es mir geht. Doch verstehen die meisten nicht, dass ich ihr Interesse daran nicht brauche. Damit durch den Alltag schleppen muss ich mich sowieso. Egal, ob ich 5 mal oder nie am Tag darüber reden muss. Es ist trotzdem immer da und nimmt Raum in meinem Kopf ein. Wenn ich über das, was mich als Menschen wirklich ausmacht, Musik, meinen Beruf, meine Beziehung, die philosophischen Konzepte, mit denen ich mir die Welt erkläre, sprechen kann, ist das eine schöne Sache. Wenn du mich aber nur danach fragst, warum ich denn so komisch laufe, dann ist das nur eine weitere von tausenden Erinnerungen an den unangenehmsten und kraftraubendsten Teil meines Lebens. 
 
 # Ich habe auch Probleme
 
@@ -32,6 +32,8 @@ Mir ist bewusst, dass es ganz normal ist, dass dir zuerst meine Stützen auffall
 Zusammenfassend kann ich sagen:
 
 ## Für dich ist es kurze Neugier, für mich eine weitere von tausenden Erinnerungen an den kraftraubendsten Teil meines Lebens.
+
+- - -
 
 # Austausch ist wichtig
 
