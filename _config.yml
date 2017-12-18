@@ -1,7 +1,7 @@
 # Site settings
 title: va1entin's blog
 default_author: Valentin Heidelberger
-description: "va1entin.io"  # used in site head
+description: "valh.io"  # used in site head
 
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
@@ -15,7 +15,7 @@ github_username:  va1entin
 #facebook_username: 
 #email:
 #stackoverflow_username:
-twitter_username : valhei
+#twitter_username : valhei
 linkedin_username : valentin-heidelberger-251769102
 #keybase_username :
 copyright_name: Valentin Heidelberger
@@ -26,7 +26,7 @@ collections:
   - portfolio
 
 # used to estimate reading time
-wpm: 150
+#wpm: 150
 
 # Build settings
 markdown: kramdown
