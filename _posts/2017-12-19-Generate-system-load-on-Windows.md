@@ -15,4 +15,4 @@ It comes with a simple GUI and allows you to instantly put heavy load on your sy
 
 CPUSTRES comes as a simple standalone program with a GUI and 4 threads to activate. You can also assign different intesities per thread. Task manager helps checking how much load is actually put on the CPU.
 
-![CPUSTRES screenshot](img/posts/cpustres.jpg)
+![CPUSTRES screenshot](/img/posts/cpustres.jpg)
