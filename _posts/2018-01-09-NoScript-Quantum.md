@@ -14,11 +14,13 @@ Giorgio Maone, the developer of NoScript, one of the most famous and important a
 
 But there's one thing I didn't get used to: the new default settings.
 
-The new NoScript comes with quite a lot of websites, that are fully trusted by default. Some of these might be totally rational to **most** users (google.com, youtube.com, etc...), others not so much (wlxrs.com, a parked domain, as far as I can tell). Nonetheless, I don't want NoScript to decide who I as it's user trust.
+The new NoScript comes with quite a lot of websites, that are fully trusted by default. Some of these might be totally rational to **most** users (google.com, youtube.com, etc...), others not so much (wlxrs.com, a parked domain, as far as I can tell). Nonetheless, I don't want NoScript to decide who I, as it's user, trust.
 Another weird default setting are the "default" permissions for websites. There are 3 primary states: Default, Trusted and Untrusted.
 
 *Default* = frames, fetch, "other"
+
 *Trusted* = Anything
+
 *Untrusted* = Nothing
 
 Since every site, that is not explicitly *trusted* or *untrusted*, gets assigned the "*default*" state, it is allowed to do **some things** and it's not even entirely clear what these are ("other").
