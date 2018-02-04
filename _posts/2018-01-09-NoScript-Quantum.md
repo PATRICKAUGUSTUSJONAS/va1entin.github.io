@@ -1,7 +1,7 @@
 ---
 layout: post
-title : "NoScript 10 (Quantum)"
-subtitle : "fix default settings"
+title : "Fix NoScript 10 (Quantum) default settings"
+subtitle : ""
 date: 2018-01-09 18:01:00
 author: "Valentin Heidelberger"
 header-img: "img/posts/keyboard-blur_negative_space_co.jpg"
